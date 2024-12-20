@@ -1,14 +1,45 @@
-<h1 align="center">Hi 👋, I'm Aman gupta</h1>
-<h3 align="center">A passionate in MERN Stack</h3>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=AE43AB&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+AMAN+𝐏𝐑𝐎𝐅𝐈𝐋𝐄.;𝐇𝐄𝐑𝐄+𝐘𝐎𝐔+𝐂𝐀𝐍+𝐅𝐈𝐍𝐃+𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒;𝐓𝐇𝐀𝐍𝐊𝐒+𝐅𝐎𝐑+𝐕𝐈𝐒𝐈𝐓𝐈𝐍𝐆+𝐌𝐘+𝐑𝐎𝐅𝐈𝐋𝐄 )](https://git.io/typing-svg)
 
-- 💬 Ask me about **MERN stack , java**
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://chat.whatsapp.com/Imi0xFyoBmIBUSc7C947TL)
 
-- 📫 How to reach me **amanranjeet7011@gmail.com**
+# 𒆜AMAN GUPTA𒆜
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="http://www.linkedin.com/in/aman-gupta-456346250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aman-gupta-456346250" height="30" width="40" /></a>
+<div align="center">
+<p align="center">
+  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://git.io/J0hKr">
+  <img
+ src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=𒆜AMAN+GUPTA𒆜;IS+ALWAYS+HERE+FOR+YOU."
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/Amangupta7011/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amangupta7011&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+
+<p align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amangupta7011&show_icons=true&theme=dark&locale=en"alt="yashcybrot" /></p>
+    
+  <div align="center">
+       
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amangupta7011&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+  </div>
+ 
+
+  
+
+## ```ᴄᴏɴᴛᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ```
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aman-gupta-456346250/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
